@@ -4,7 +4,7 @@
 # See that warning on Step 6 here:
 # https://packaging.python.org/guides/single-sourcing-package-version/
 # If we want to do imports here, there is a different approach.
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 # from .util import (
 #     SMB,

@@ -19,7 +19,7 @@ setup(
     name='pysmb-util',
     version=pysmb_util.__version__,
     license='MIT',
-    description='Compare two tables on Vertica.',
+    description='Helper functions for working with SMB via pysmb.',
     long_description=read('README.md'),
     long_description_content_type='text/markdown',
     author='Andy Reagan',
