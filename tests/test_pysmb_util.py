@@ -1,7 +1,7 @@
-from pysmb_util import SMB
-from pysmb_util import get_file_list
-from pysmb_util import attach_file_stream
-from pysmb_util import write_to_local_file
+from pysmb_util.util import SMB
+from pysmb_util.util import get_file_list
+from pysmb_util.util import attach_file_stream
+from pysmb_util.util import write_to_local_file
 
 
 def test_SMB():
